@@ -60,6 +60,7 @@
             <option value ="Iraq">Iraq</option>
             <option value ="china">china</option>
             <option value ="England">England</option>
+        </select>
             
     </td>
 </tr>
